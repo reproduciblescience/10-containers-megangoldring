@@ -1,0 +1,19 @@
+Type: Compendium
+Package: squirrels!
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "Megan",
+           family = "Goldring",
+           role = c("student", "author"),
+           email = "m.goldring@ecolumbia.edu",
+           comment = c(ORCID = ""))
+Description: compendium for lab 10-containers
+License: What license it uses
+Depends: 
+    rmarkdown,
+    tidyverse,
+    tm,
+    topicmodels
+Encoding: UTF-8
+LazyData: true
